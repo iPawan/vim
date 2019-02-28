@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/pawan/.vim'
+let g:netrw_dirhist_2='/home/pawan/workspace/learning/javascript/frameworks/angular/pwa/jokes'
+let g:netrw_dirhist_3='/home/pawan/workspace/learning/javascript/frameworks/angular/pwa/jokes/src'
+let g:netrw_dirhist_4='/home/pawan/workspace/learning/javascript/frameworks/angular/pwa/jokes/src/app'

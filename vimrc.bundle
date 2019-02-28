@@ -1,0 +1,8 @@
+call plug#begin('~/.vim/plugged')
+
+
+Plug 'mattn/emmet-vim'
+Plug 'flazz/vim-colorschemes'
+Plug 'ctrlpvim/ctrlp.vim'
+Plug 'editorconfig/editorconfig-vim'
+call plug#end()
