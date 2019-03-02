@@ -101,3 +101,6 @@ nnoremap <leader>q :q<cr>
 
 " repeat commands in visual mode 
 vnoremap . :normal .<cr>
+" keep visual selection when indenting
+vnoremap < <gv
+vnoremap > >gv
